@@ -1,9 +1,12 @@
 {
-  // "font_face": "Liberation Mono", // http://www.dafont.com/liberation-mono.font
-  "font_size": 15.0,
-  "ignored_packages": [],
-  "tab_size": 2,
-  "vintage_start_in_command_mode": true,
-  "word_wrap": "true",
-  "wrap_width": 120
+	"color_scheme": "Packages/Dayle Rees Color Schemes/Github.tmTheme",
+	"font-family": "Liberation Mono",
+	"font_size": 15.0,
+	"ignored_packages":
+	[
+	],
+	"tab_size": 2,
+	"vintage_start_in_command_mode": true,
+	"word_wrap": "true",
+	"wrap_width": 120
 }
