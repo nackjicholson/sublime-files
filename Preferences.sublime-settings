@@ -1,12 +1,13 @@
 {
-	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night-Eighties.tmTheme",
+	"color_scheme": "Packages/Theme - Phoenix/Color Scheme/Phoenix Dark Green - Eighties.tmTheme",
 	"font_face": "Liberation Mono",
 	"font_size": 15.0,
 	"ignored_packages":
 	[
 	],
+	"phoenix_eighties": true,
 	"tab_size": 2,
-	"theme": "Centurion.sublime-theme",
+	"theme": "Phoenix Dark.sublime-theme",
 	"vintage_start_in_command_mode": true,
 	"word_wrap": "true",
 	"wrap_width": 120
