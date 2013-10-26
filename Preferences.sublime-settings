@@ -1,11 +1,12 @@
 {
-	"color_scheme": "Packages/Dayle Rees Color Schemes/Github.tmTheme",
-	"font-family": "Liberation Mono",
+	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night-Eighties.tmTheme",
+	"font_face": "Liberation Mono",
 	"font_size": 15.0,
 	"ignored_packages":
 	[
 	],
 	"tab_size": 2,
+	"theme": "Centurion.sublime-theme",
 	"vintage_start_in_command_mode": true,
 	"word_wrap": "true",
 	"wrap_width": 120
